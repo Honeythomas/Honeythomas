@@ -6,6 +6,9 @@ Languages: JavaScript, HTML, CSS
 Frameworks/Libraries: React.js, Redux, Bootstrap, Material-UI
 Version Control: Git
 
+Tools & Hosting :
+Linux, Git, Codesandbox, VS Code, Canva, Postman, Versel, Netlify, Figma
+
 What I'm currently learning
 I'm always exploring new technologies to keep up with the fast-paced world of web development. Currently, I'm learning about the following:
 
